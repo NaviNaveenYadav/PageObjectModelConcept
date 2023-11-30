@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-30T14:18:56 GMT" name="Default suite" finished-at="2023-11-30T14:18:58 GMT" duration-ms="1890">
+    <groups>
+    </groups>
+    <test started-at="2023-11-30T14:18:56 GMT" name="Default test" finished-at="2023-11-30T14:18:58 GMT" duration-ms="1890">
+      <class name="testScripts.PlaceOrderTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testScripts.PlaceOrderTest@160c3ec1]" started-at="2023-11-30T14:18:56 GMT" name="setup" finished-at="2023-11-30T14:18:57 GMT" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="addItem()[pri:0, instance:testScripts.PlaceOrderTest@160c3ec1]" started-at="2023-11-30T14:18:57 GMT" name="addItem" finished-at="2023-11-30T14:18:57 GMT" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addItem -->
+        <test-method signature="checkoutItems()[pri:0, instance:testScripts.PlaceOrderTest@160c3ec1]" started-at="2023-11-30T14:18:57 GMT" name="checkoutItems" finished-at="2023-11-30T14:18:57 GMT" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutItems -->
+        <test-method signature="placeOrder()[pri:0, instance:testScripts.PlaceOrderTest@160c3ec1]" started-at="2023-11-30T14:18:57 GMT" name="placeOrder" finished-at="2023-11-30T14:18:57 GMT" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method signature="submitOrder()[pri:0, instance:testScripts.PlaceOrderTest@160c3ec1]" started-at="2023-11-30T14:18:57 GMT" name="submitOrder" finished-at="2023-11-30T14:18:57 GMT" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitOrder -->
+        <test-method signature="successMsg()[pri:0, instance:testScripts.PlaceOrderTest@160c3ec1]" started-at="2023-11-30T14:18:57 GMT" name="successMsg" finished-at="2023-11-30T14:18:57 GMT" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successMsg -->
+        <test-method signature="tearDown()[pri:0, instance:testScripts.PlaceOrderTest@160c3ec1]" started-at="2023-11-30T14:18:57 GMT" name="tearDown" finished-at="2023-11-30T14:18:58 GMT" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.PlaceOrderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
